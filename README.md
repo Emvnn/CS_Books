@@ -16,9 +16,9 @@ Study all nine subjects below, in roughly the presented order, using either the 
 | **Subject** | **Why study?** | **Book** | **Videos** |
 |------------|---------------|----------|------------|
 | **[Programming](Programming/)** | Don’t be the person who “never quite understood” something like recursion. | *Structure and Interpretation of Computer Programs* | Brian Harvey’s Berkeley CS 61A |
-| **[Computer Architecture](#Computer-Architecture)** | If you don’t have a solid mental model of how a computer actually works, all of your higher-level abstractions will be brittle. | *Computer Systems: A Programmer's Perspective* | Berkeley CS 61C |
-| **[Algorithms and Data Structures](#Algorithms-and-Data-Structures)** | If you don’t know how to use ubiquitous data structures like stacks, queues, trees, and graphs, you won’t be able to solve challenging problems. | *The Algorithm Design Manual* | Steven Skiena’s lectures |
-| **[Math for CS](#Math-for-CS)** | CS is basically a runaway branch of applied math, so learning math will give you a competitive advantage. | *Mathematics for Computer Science* | Tom Leighton’s MIT 6.042J |
+| **[Computer Architecture](Computer-Architecture/)** | If you don’t have a solid mental model of how a computer actually works, all of your higher-level abstractions will be brittle. | *Computer Systems: A Programmer's Perspective* | Berkeley CS 61C |
+| **[Algorithms and Data Structures](Algorithms-and-Data-Structures/)** | If you don’t know how to use ubiquitous data structures like stacks, queues, trees, and graphs, you won’t be able to solve challenging problems. | *The Algorithm Design Manual* | Steven Skiena’s lectures |
+| **[Math for CS](Math-for-CS/)** | CS is basically a runaway branch of applied math, so learning math will give you a competitive advantage. | *Mathematics for Computer Science* | Tom Leighton’s MIT 6.042J |
 | **[Operating Systems](#Operating-Systems)** | Most of the code you write is run by an operating system, so you should know how those interact. | *Operating Systems: Three Easy Pieces* | Berkeley CS 162 |
 | **[Computer Networking](#Computer-Networking)** | The Internet turned out to be a big deal: understand how it works to unlock its full potential. | *Computer Networking: A Top-Down Approach* | Stanford CS 144 |
 | **[Databases](#Databases)** | Data is at the heart of most significant programs, but few understand how database systems actually work. | *Readings in Database Systems* | Joe Hellerstein’s Berkeley CS 186 |
@@ -41,3 +41,4 @@ Both call themselves software engineers, and both tend to earn similar salaries 
 Type 1 engineers find ways to learn computer science in depth, whether through conventional means or by relentlessly learning throughout their careers. Type 2 engineers typically stay at the surface, learning specific tools and technologies rather than their underlying foundations, only picking up new skills when the winds of technical fashion change.
 
 Currently, the number of people entering the industry is rapidly increasing, while the number of CS grads is relatively static. This oversupply of Type 2 engineers is starting to reduce their employment opportunities and keep them out of the industry’s more fulfilling work. Whether you’re striving to become a Type 1 engineer or simply looking for more job security, learning computer science is the only reliable path.
+
