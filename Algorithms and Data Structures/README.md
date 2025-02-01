@@ -5,7 +5,7 @@
     Link to "Algorithm Design Manual"
 </a>
 
-<img align="right" width="250" src="https://github.com/user-attachments/assets/d74cf82c-162e-441d-8be4-36635a2890dc" />
+<img align="right" width="200" src="https://github.com/user-attachments/assets/d74cf82c-162e-441d-8be4-36635a2890dc" />
 <a href="https://www.amazon.com/How-Solve-Mathematical-Princeton-Science/dp/069116407X/?pldnSite=1">
     Link to "How to Solve It"
 </a>
