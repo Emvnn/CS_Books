@@ -1,11 +1,11 @@
 # Algorithms and Data Structures
 
-<img align="right" width="500" src="https://github.com/user-attachments/assets/78648c2a-538c-4526-8dec-122edacd545e" />
+<img align="right" width="50" src="https://github.com/user-attachments/assets/78648c2a-538c-4526-8dec-122edacd545e" />
 <a href="https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1848000693/?pldnSite=1">
     Link to "Algorithm Design Manual"
 </a>
 
-<img align="right" width="500" src="https://github.com/user-attachments/assets/d74cf82c-162e-441d-8be4-36635a2890dc" />
+<img align="right" width="50" src="https://github.com/user-attachments/assets/d74cf82c-162e-441d-8be4-36635a2890dc" />
 <a href="https://www.amazon.com/How-Solve-Mathematical-Princeton-Science/dp/069116407X/?pldnSite=1">
     Link to "How to Solve It"
 </a>
