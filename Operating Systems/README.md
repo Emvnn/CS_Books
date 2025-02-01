@@ -1,6 +1,6 @@
 # Operating Systems
 
-<img align="right" width="500" src="https://github.com/user-attachments/assets/ce5c96c3-1f01-4adc-b99d-d800cfe4f54f" /><a href="https://pages.cs.wisc.edu/~remzi/OSTEP/"></a>
+<img align="right" width="150" src="https://github.com/user-attachments/assets/ce5c96c3-1f01-4adc-b99d-d800cfe4f54f" /><a href="https://pages.cs.wisc.edu/~remzi/OSTEP/"></a>
 
 [Operating System Concepts](https://www.amazon.com/dp/1118063333/) (the "Dinosaur Book") and [Modern Operating Systems](https://www.amazon.com/dp/013359162X/) are the classics on operating systems. Both have received criticism due to their lack of clarity and general unfriendliness toward students.
 
