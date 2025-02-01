@@ -1,8 +1,6 @@
 # Programming
 
-<img align="right" src="![sicp](https://github.com/user-attachments/assets/d5d1ab4f-024a-493a-a055-7a546d5b1d87)">
-
-# Introduction to Computer Science
+<img align="right" wedith="500" src="https://github.com/user-attachments/assets/d5d1ab4f-024a-493a-a055-7a546d5b1d87">
 
 Most undergraduate computer science programs begin with an "Introduction" to computer programming. The best versions of these courses are not only for beginners but also for those who may have missed essential concepts and programming models when first learning to code.
 
