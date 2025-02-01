@@ -16,7 +16,7 @@ Study all nine subjects below, in roughly the presented order, using either the 
 | **Subject** | **Why study?** | **Book** | **Videos** |
 |------------|---------------|----------|------------|
 | **[Programming](Programming/)** | Don’t be the person who “never quite understood” something like recursion. | *Structure and Interpretation of Computer Programs* | Brian Harvey’s Berkeley CS 61A |
-| **[Computer Architecture](Computer_Architecture/)** | If you don’t have a solid mental model of how a computer actually works, all of your higher-level abstractions will be brittle. | *Computer Systems: A Programmer's Perspective* | Berkeley CS 61C |
+| **[Computer Architecture](Computer%20Architecture/)** | If you don’t have a solid mental model of how a computer actually works, all of your higher-level abstractions will be brittle. | *Computer Systems: A Programmer's Perspective* | Berkeley CS 61C |
 | **[Algorithms and Data Structures](Algorithms_and_Data-Structures/)** | If you don’t know how to use ubiquitous data structures like stacks, queues, trees, and graphs, you won’t be able to solve challenging problems. | *The Algorithm Design Manual* | Steven Skiena’s lectures |
 | **[Math for CS](Math_for_CS/)** | CS is basically a runaway branch of applied math, so learning math will give you a competitive advantage. | *Mathematics for Computer Science* | Tom Leighton’s MIT 6.042J |
 | **[Operating Systems](#Operating_Systems/)** | Most of the code you write is run by an operating system, so you should know how those interact. | *Operating Systems: Three Easy Pieces* | Berkeley CS 162 |
