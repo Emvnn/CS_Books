@@ -17,13 +17,13 @@ Study all nine subjects below, in roughly the presented order, using either the 
 |------------|---------------|----------|------------|
 | **[Programming](Programming/)** | Don’t be the person who “never quite understood” something like recursion. | *Structure and Interpretation of Computer Programs* | Brian Harvey’s Berkeley CS 61A |
 | **[Computer Architecture](Computer%20Architecture/)** | If you don’t have a solid mental model of how a computer actually works, all of your higher-level abstractions will be brittle. | *Computer Systems: A Programmer's Perspective* | Berkeley CS 61C |
-| **[Algorithms and Data Structures](Algorithms_and_Data-Structures/)** | If you don’t know how to use ubiquitous data structures like stacks, queues, trees, and graphs, you won’t be able to solve challenging problems. | *The Algorithm Design Manual* | Steven Skiena’s lectures |
-| **[Math for CS](Math_for_CS/)** | CS is basically a runaway branch of applied math, so learning math will give you a competitive advantage. | *Mathematics for Computer Science* | Tom Leighton’s MIT 6.042J |
-| **[Operating Systems](#Operating_Systems/)** | Most of the code you write is run by an operating system, so you should know how those interact. | *Operating Systems: Three Easy Pieces* | Berkeley CS 162 |
-| **[Computer Networking](Computer_Networking/)** | The Internet turned out to be a big deal: understand how it works to unlock its full potential. | *Computer Networking: A Top-Down Approach* | Stanford CS 144 |
+| **[Algorithms and Data Structures](Algorithms%20and%20Data-Structures/)** | If you don’t know how to use ubiquitous data structures like stacks, queues, trees, and graphs, you won’t be able to solve challenging problems. | *The Algorithm Design Manual* | Steven Skiena’s lectures |
+| **[Math for CS](Math%20for%20CS/)** | CS is basically a runaway branch of applied math, so learning math will give you a competitive advantage. | *Mathematics for Computer Science* | Tom Leighton’s MIT 6.042J |
+| **[Operating Systems](Operating%20Systems/)** | Most of the code you write is run by an operating system, so you should know how those interact. | *Operating Systems: Three Easy Pieces* | Berkeley CS 162 |
+| **[Computer Networking](Computer%20Networking/)** | The Internet turned out to be a big deal: understand how it works to unlock its full potential. | *Computer Networking: A Top-Down Approach* | Stanford CS 144 |
 | **[Databases](Databases/)** | Data is at the heart of most significant programs, but few understand how database systems actually work. | *Readings in Database Systems* | Joe Hellerstein’s Berkeley CS 186 |
-| **[Languages and Compilers](Languages_and_Compilers/)**  | If you understand how languages and compilers actually work, you’ll write better code and learn new languages more easily. | *Crafting Interpreters* | Alex Aiken’s course on edX |
-| **[Distributed Systems](Distributed_Systems/)** | These days, most systems are distributed systems. | *Designing Data-Intensive Applications* by Martin Kleppmann | MIT 6.824 |
+| **[Languages and Compilers](Languages%20and%20Compilers/)**  | If you understand how languages and compilers actually work, you’ll write better code and learn new languages more easily. | *Crafting Interpreters* | Alex Aiken’s course on edX |
+| **[Distributed Systems](Distributed%20Systems/)** | These days, most systems are distributed systems. | *Designing Data-Intensive Applications* by Martin Kleppmann | MIT 6.824 |
 
 ## Still too much?
 If the idea of self-studying 9 topics over multiple years feels overwhelming, we suggest you focus on just two books: *Computer Systems: A Programmer's Perspective* and *Designing Data-Intensive Applications*. These two books provide incredibly high return on time invested, particularly for self-taught engineers and bootcamp grads working on networked applications. They may also serve as a "gateway drug" for the other topics and resources listed above.
