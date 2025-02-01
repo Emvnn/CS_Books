@@ -1,6 +1,6 @@
 # Computer Architecture
 
-<img align="right" wedith="400" src="https://github.com/user-attachments/assets/ed9d5db6-88c2-4b33-817f-077ca2b2f4f5">
+<img align="right" wedith="100" src="https://github.com/user-attachments/assets/ed9d5db6-88c2-4b33-817f-077ca2b2f4f5">
 
 > Hardware is the platform.
 
