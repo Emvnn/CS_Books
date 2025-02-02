@@ -1,7 +1,7 @@
 # Distributed Systems
 
 <a href="https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable-ebook/dp/B06XPJML5D/?pldnSite=1">
-    <img align="right" wedith="150" src="https://github.com/user-attachments/assets/0559184c-dbe3-4310-b541-dc05e8c4a358" />
+    <img align="right" wedith="50" src="https://github.com/user-attachments/assets/0559184c-dbe3-4310-b541-dc05e8c4a358" />
 </a>
 
 As computers have become more numerous, they have also become more distributed. While companies used to invest in ever-larger mainframes, today it is common for even very small applications to run on multiple machines. Distributed systems deal with the trade-offs associated with this shift.
