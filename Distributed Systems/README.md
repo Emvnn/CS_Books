@@ -1,6 +1,8 @@
 # Distributed Systems
 
-[<img align="right" src="![ddia](https://github.com/user-attachments/assets/0559184c-dbe3-4310-b541-dc05e8c4a358)">](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable-ebook/dp/B06XPJML5D/?pldnSite=1)
+<a href="https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable-ebook/dp/B06XPJML5D/?pldnSite=1">
+    <img align="right" src="https://github.com/user-attachments/assets/0559184c-dbe3-4310-b541-dc05e8c4a358" />
+</a>
 
 As computers have become more numerous, they have also become more distributed. While companies used to invest in ever-larger mainframes, today it is common for even very small applications to run on multiple machines. Distributed systems deal with the trade-offs associated with this shift.
 
@@ -12,6 +14,4 @@ If you prefer video lectures, an excellent course with online videos is [MIT's 6
 
 Regardless of which textbook or secondary sources you choose, studying distributed systems requires reading research papers. A great list can be found [here](http://dsrg.pdos.csail.mit.edu/papers/), and we highly recommend joining your local chapter of [Papers We Love](https://paperswelove.org/).
 
----
 
-Let me know if you need any modifications! 😊
