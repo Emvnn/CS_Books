@@ -1,11 +1,11 @@
 # Databases
 
 <a href="http://www.redbook.io/">
-    <img align="right" src="https://github.com/user-attachments/assets/ddcc9e58-8e32-43b4-80fd-98e30528a46a" width="500" />
+    <img align="right" src="https://github.com/user-attachments/assets/ddcc9e58-8e32-43b4-80fd-98e30528a46a" width="200" />
 </a>
 
 <a href="https://www.amazon.com/Data-Reality-Perspective-Perceiving-Information/dp/1935504215">
-    <img align="right" src="https://github.com/user-attachments/assets/f4e64b88-5383-4966-851d-7b47e5ba72be" width="500" />
+    <img align="right" src="https://github.com/user-attachments/assets/f4e64b88-5383-4966-851d-7b47e5ba72be" width="200" />
 </a>
 
 Learning about database systems as a self-learner is more challenging than in other fields. It is a relatively new discipline (emerging in the 1970s) with strong commercial incentives, meaning that some key ideas remain proprietary. Additionally, many authors of excellent textbooks have opted to join or start companies instead.
