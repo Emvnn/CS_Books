@@ -1,7 +1,7 @@
 # Distributed Systems
 
 <a href="https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable-ebook/dp/B06XPJML5D/?pldnSite=1">
-    <img align="right" src="https://github.com/user-attachments/assets/0559184c-dbe3-4310-b541-dc05e8c4a358" width="200" />
+    <img align="right" src="https://github.com/user-attachments/assets/0559184c-dbe3-4310-b541-dc05e8c4a358" width="250" />
 </a>
 
 
